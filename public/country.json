@@ -1,0 +1,202 @@
+[
+    {
+      "country": "Ethiopia",
+      "population": 104957438,
+      "deaths": 2057,
+      "recovered": 118006,
+      "lat": 9.145,
+      "lng": 40.4897
+    },
+    {
+      "country": "Lebanon",
+      "population": 6082357,
+      "deaths": 2151,
+      "recovered": 158822,
+      "lat": 33.8547,
+      "lng": 35.8623
+    },
+    {
+      "country": "Bolivia",
+      "population": 11051600,
+      "deaths": 9764,
+      "recovered": 146578,
+      "lat": -16.2902,
+      "lng": -63.5887
+    },
+    {
+      "country": "Nicaragua",
+      "population": 6217581,
+      "deaths": 168,
+      "recovered": 4225,
+      "lat": 12.865416,
+      "lng": -85.207229
+    },
+    {
+      "country": "Cambodia",
+      "population": 16005373,
+      "deaths": 0,
+      "recovered": 396,
+      "lat": 11.55,
+      "lng": 104.9167
+    },
+    {
+      "country": "Equatorial Guinea",
+      "population": 1267689,
+      "deaths": 86,
+      "recovered": 5191,
+      "lat": 1.6508,
+      "lng": 10.2679
+    },
+    {
+      "country": "Iran",
+      "population": 81162788,
+      "deaths": 57150,
+      "recovered": 1144549,
+      "lat": 32.427908,
+      "lng": 53.688046
+    },
+    {
+      "country": "Grenada",
+      "population": 107825,
+      "deaths": 1,
+      "recovered": 129,
+      "lat": 12.1165,
+      "lng": -61.679
+    },
+    {
+      "country": "Kuwait",
+      "population": 4136528,
+      "deaths": 951,
+      "recovered": 152826,
+      "lat": 29.31166,
+      "lng": 47.481766
+    },
+    {
+      "country": "Jamaica",
+      "population": 2890299,
+      "deaths": 331,
+      "recovered": 11809,
+      "lat": 18.1096,
+      "lng": -77.2975
+    },
+    {
+      "country": "Afghanistan",
+      "population": 35530081,
+      "deaths": 2363,
+      "recovered": 46887,
+      "lat": 33.93911,
+      "lng": 67.709953
+    },
+    {
+      "country": "Slovenia",
+      "population": 2079976,
+      "deaths": 3284,
+      "recovered": 131377,
+      "lat": 46.1512,
+      "lng": 14.9955
+    },
+    {
+      "country": "Cameroon",
+      "population": 24053727,
+      "deaths": 455,
+      "recovered": 26861,
+      "lat": 3.848,
+      "lng": 11.5021
+    },
+    {
+      "country": "Saudi Arabia",
+      "population": 32938213,
+      "deaths": 6342,
+      "recovered": 357337,
+      "lat": 23.885942,
+      "lng": 45.079162
+    },
+    {
+      "country": "Honduras",
+      "population": 9265067,
+      "deaths": 3406,
+      "recovered": 60217,
+      "lat": 15.2,
+      "lng": -86.2419
+    },
+    {
+      "country": "Djibouti",
+      "population": 956985,
+      "deaths": 61,
+      "recovered": 5828,
+      "lat": 11.8251,
+      "lng": 42.5903
+    },
+    {
+      "country": "Barbados",
+      "population": 285719,
+      "deaths": 9,
+      "recovered": 493,
+      "lat": 13.1939,
+      "lng": -59.5432
+    },
+    {
+      "country": "Panama",
+      "population": 4098587,
+      "deaths": 4912,
+      "recovered": 246452,
+      "lat": 8.538,
+      "lng": -80.7821
+    },
+    {
+      "country": "Bangladesh",
+      "population": 164669751,
+      "deaths": 7966,
+      "recovered": 475074,
+      "lat": 23.685,
+      "lng": 90.3563
+    },
+    {
+      "country": "Angola",
+      "population": 29784193,
+      "deaths": 448,
+      "recovered": 17176,
+      "lat": -11.2027,
+      "lng": 17.8739
+    },
+    {
+      "country": "latvia",
+      "population": 1949670,
+      "deaths": 1057,
+      "recovered": 42517,
+      "lat": 56.8796,
+      "lng": 24.6032
+    },
+    {
+      "country": "Guinea-Bissau",
+      "population": 1861283,
+      "deaths": 45,
+      "recovered": 2405,
+      "lat": 11.8037,
+      "lng": -15.1804
+    },
+    {
+      "country": "Marshall Islands",
+      "population": 53127,
+      "deaths": 0,
+      "recovered": 4,
+      "lat": 7.1315,
+      "lng": 171.1845
+    },
+    {
+      "country": "Bahrain",
+      "population": 1492584,
+      "deaths": 366,
+      "recovered": 95240,
+      "lat": 26.0275,
+      "lng": 50.55
+    },
+    {
+      "country": "Turkey",
+      "population": 80745020,
+      "deaths": 24640,
+      "recovered": 2290032,
+      "lat": 38.9637,
+      "lng": 35.2433
+    }
+  ]
